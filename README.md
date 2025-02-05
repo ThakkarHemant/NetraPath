@@ -1,6 +1,6 @@
 # NetraPath
 
-![NetraPath Logo](static\image.png)
+![NetraPath Logo](static/image.png)
 
 ## NetraPath
 
